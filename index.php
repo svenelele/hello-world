@@ -1,8 +1,8 @@
 <?php
 
-$myObj->name = "John";
-$myObj->age = 30;
-$myObj->city = "New York";
+$myObj->name = "Tobias Ramin";
+$myObj->age = -;
+$myObj->city = "Hamburg";
 
 $myJSON = json_encode($myObj);
 
