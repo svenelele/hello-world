@@ -1,5 +1,6 @@
 <?php
 
+$myObj = new \stdClass();
 $myObj->name = "Tobias Ramin";
 $myObj->age = "-";
 $myObj->city = "Hamburg";
