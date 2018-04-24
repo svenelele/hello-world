@@ -7,6 +7,6 @@ $myObj->city = "Hamburg";
 
 $myJSON = json_encode($myObj);
 
-echo $myJSON;
+#echo $myJSON;
 
 ?>
